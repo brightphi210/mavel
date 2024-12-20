@@ -1,9 +1,8 @@
 import heroimage from '../assets/MavelImage/1a.png'
 import fade from '../assets/fade.png'
-import {Button,  Button2, Button3 } from '../components/Button';
+import {Button,  Button2 } from '../components/Button';
 import { StackIcon } from '../components/StackIcons';
 import { WorksData } from '../components/Works';
-// import { Link } from 'react-router-dom';
 import { PhotoProvider, PhotoView } from 'react-photo-view';
 import 'react-photo-view/dist/react-photo-view.css';
 
