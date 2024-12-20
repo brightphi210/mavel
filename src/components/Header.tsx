@@ -1,6 +1,4 @@
 
-import logo from '../assets/logo1.png'
-import logoa from '../assets/logo.png'
 import { LuSunDim } from "react-icons/lu";
 import { IoMdMoon } from "react-icons/io";
 import { IoCloseSharp } from "react-icons/io5";
